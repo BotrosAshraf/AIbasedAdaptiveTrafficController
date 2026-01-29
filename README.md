@@ -22,9 +22,9 @@ The system treats vehicles as dynamic agents that negotiate the intersection flu
 ## 🚀 How to Run | طريقة التشغيل
 1.  Clone the repository:
     ```sh
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+    git clone [https://github.com/BotrosAshraf/AIbasedAdaptiveTrafficController.git](https://github.com/BotrosAshraf/AIbasedAdaptiveTrafficController.git)
     ```
-2.  Right-click on `NPCVehicleSystem4.uproject` and select **"Generate Visual Studio project files"**.
+2.  Right-click on the `.uproject` file and select **"Generate Visual Studio project files"**.
 3.  Open the `.sln` file and build the project in **Development Editor**.
 4.  Open the project in Unreal Engine and press **Play**.
 
