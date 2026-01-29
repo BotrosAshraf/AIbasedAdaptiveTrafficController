@@ -1,10 +1,8 @@
-# AIbasedAdaptive
-
-# 🚦 Smart Intersection Simulation (AI-Based)
+# Smart Intersection Simulation (AI-Based)
 
 > **A simulation built with Unreal Engine 5 that explores a non-linear approach to solving traffic congestion.**
 
-## 📖 About The Project | عن المشروع
+## 📖 About The Project
 This project tackles the classic problem of **Intersection Congestion** but with a twist. Instead of traditional traffic lights or standard lanes, this simulation applies a concept **"Opposite to Lines"**.
 
 The system treats vehicles as dynamic agents that negotiate the intersection fluidly, reducing wait times and preventing gridlocks typically caused by rigid lane structures.
@@ -14,12 +12,12 @@ The system treats vehicles as dynamic agents that negotiate the intersection flu
 * Dynamic pathfinding for vehicles.
 * Optimized flow at high-density intersections.
 
-## 🛠️ Built With | التقنيات المستخدمة
+## 🛠️ Built With
 * **Engine:** Unreal Engine 5 (UE5)
 * **Language:** C++ (Core Logic) & Blueprints (Behavior)
 * **AI:** Custom Navigation & Avoidance System
 
-## 🚀 How to Run | طريقة التشغيل
+## 🚀 How to Run
 1.  Clone the repository:
     ```sh
     git clone [https://github.com/BotrosAshraf/AIbasedAdaptiveTrafficController.git](https://github.com/BotrosAshraf/AIbasedAdaptiveTrafficController.git)
@@ -28,9 +26,9 @@ The system treats vehicles as dynamic agents that negotiate the intersection flu
 3.  Open the `.sln` file and build the project in **Development Editor**.
 4.  Open the project in Unreal Engine and press **Play**.
 
-## 📸 Gallery | صور من المشروع
+## 📸 Gallery
 *(Add Screenshots or GIFs here)*
   
 
 ---
-*Developed by [Your Name]*
+*Developed by Botros*
